@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": "2911",
+      "name": "anil",
+      "email": "anil@test.com",
+      "password": "anil@123"
+    },
+    {
+      "id": "df38",
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "peter@123"
+    },
+    {
+      "id": "f8fa",
+      "email": "abc@test.com",
+      "name": "ABC",
+      "password": "ab@123"
+    },
+    {
+      "id": "6db4",
+      "email": "ajay@gmail.com",
+      "name": "ajay",
+      "password": "ajay@123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "cafe.com",
+      "address": "Surat,Gujarat",
+      "contact": "9019908876",
+      "id": "4153"
+    }
+  ]
+}
